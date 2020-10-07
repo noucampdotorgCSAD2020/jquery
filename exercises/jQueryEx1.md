@@ -13,7 +13,7 @@ This will copy some jQuery program files to you ``htdocs`` folder.
 
 	```
 	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone https://github.com/noucampdotorgCSAD2019/jQuery.git jQuery
+	$ git clone https://github.com/noucampdotorgCSAD2020/jQuery.git jQuery
 	$ cd jQuery
 	$ ls
 	$ git status
